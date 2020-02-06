@@ -1,1 +1,3 @@
-# az-scripts
+# Azure Services using CLI and/or Terraform
+
+Coming soon...
